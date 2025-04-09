@@ -32,3 +32,6 @@ This is a Customer Sales Order management system built using PHP and MySQL. The 
 - `script.js` - JavaScript functionality
 - `styles.css` - Stylesheet for UI
 - Image files (`gl.jpeg`, `wp.jpg`, `xx.jpg`) - Used in the UI
+
+## Image
+![image](https://github.com/user-attachments/assets/e8677b15-f350-4acb-8e09-e9458ac5fdf7)
