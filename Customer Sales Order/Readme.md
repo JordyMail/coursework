@@ -35,3 +35,7 @@ This is a Customer Sales Order management system built using PHP and MySQL. The 
 
 ## Image
 ![image](https://github.com/user-attachments/assets/e8677b15-f350-4acb-8e09-e9458ac5fdf7)
+
+### Order Date
+![image](https://github.com/user-attachments/assets/dfeb9838-5973-43c8-ac9a-107750b29c63)
+
