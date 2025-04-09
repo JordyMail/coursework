@@ -41,3 +41,6 @@ This is a Customer Sales Order management system built using PHP and MySQL. The 
 
 ### Product Detalis
 ![image](https://github.com/user-attachments/assets/30fb4709-0160-4198-8d4d-ee74452629b8)
+
+### Order Summary
+![image](https://github.com/user-attachments/assets/5169eb54-9060-463a-97d8-05760f5da1f7)
