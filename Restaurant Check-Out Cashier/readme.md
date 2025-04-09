@@ -29,10 +29,8 @@ Manual restaurant checkout processes can be time-consuming and error-prone. This
 
 ### Chapter 2: Flowchart
 
-*(Include your own flowchart diagram here if available)*  
-Describes the process from item selection to payment and change return.
+![image](https://github.com/user-attachments/assets/c9694843-75de-4f09-9434-99a9876a0065)
 
----
 
 ### Chapter 3: The Program
 
@@ -48,11 +46,20 @@ Includes:
 ### Chapter 4: Screenshots
 
 Provide screenshots for the following steps:
-1. Menu selection (Drinks, Food, or Both)
-2. Item list and selection
-3. Discount prompt and total price display
-4. Payment process and re-entry for insufficient money
-5. Change breakdown by denomination
+1. Menu selection (Drinks, Food, or Both) <br/>
+![image](https://github.com/user-attachments/assets/a4ae716a-dd1a-41f8-a84a-76207df9aebd)
+
+2. Item list and selection <br/>
+![image](https://github.com/user-attachments/assets/7f06ae39-33a2-4c8b-8ee2-d54a2c99f974)
+
+3. Discount prompt and total price display <br/>
+![image](https://github.com/user-attachments/assets/1108b5da-e371-4d98-9d76-05c5060f1dd2)
+
+4. Payment process and re-entry for insufficient money <br/>
+![image](https://github.com/user-attachments/assets/2c9dad3e-4a70-498a-82a5-a2b20685a435)
+
+5. Change breakdown by denomination <br/>
+![image](https://github.com/user-attachments/assets/c0bccb45-ffe0-42ae-a45a-7e9e3b42871e)
 
 ---
 
