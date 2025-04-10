@@ -1,6 +1,6 @@
 # 🎓 University Assignments Repository
 
-This repository contains all the assignments I have completed during my studies at university. It is organized by course and semester for easy navigation and reference.
+This repository contains all the assignments I have completed during my studies at university.
 
 ## 📁 Folder Structure
  
