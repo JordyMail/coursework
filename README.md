@@ -4,7 +4,7 @@ This repository contains all the assignments I have completed during my studies 
 
 ## 📁 Folder Structure
  
-I will update later...
+I will update later... (only if i can)
 
 ## 📚 Purpose
 
