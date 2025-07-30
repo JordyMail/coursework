@@ -29,3 +29,4 @@ All assignments are original and submitted during my time as a student. Please d
 ---
 
 Thank you for visiting!
+![image](https://github.com/user-attachments/assets/91fd2ead-f8c6-43ff-91e5-8c1fd41f77f7)
